@@ -144,10 +144,8 @@ LIMIT 1;
 ## 📢 Connect With Me  
 
 💡 **GitHub:** [DataWithRohit](https://github.com/DataWithRohit/)  
-💡 **LinkedIn:** [Your Profile Link Here]  
+💡 **LinkedIn:** [Rohitpanwar22](https://www.linkedin.com/in/rohit-panwar22/)  
 
 ---  
 
-This **Retail Orders Analysis** project provides key insights into sales trends, revenue growth, and category performance.  
-If you found this project useful, ⭐ **star** this repo and feel free to contribute! 🚀🔥  
 
