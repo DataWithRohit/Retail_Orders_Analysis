@@ -144,7 +144,7 @@ LIMIT 1;
 ## 📢 Connect With Me  
 
 💡 **GitHub:** [DataWithRohit](https://github.com/DataWithRohit/)  
-💡 **LinkedIn:** [Rohitpanwar22](https://www.linkedin.com/in/rohit-panwar22/)  
+💡 **LinkedIn:** [RohitPanwar22](https://www.linkedin.com/in/rohit-panwar22/)  
 
 ---  
 
